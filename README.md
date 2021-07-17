@@ -2,7 +2,7 @@
 
 A simple YouTube downloader bot with permenent thumbnail support.
 
-<b> Modded Version </b>
+<b> Modded Version </b> of [YouTube-Downloader](https://github.com/FayasNoushad/YouTube-Downloader)
 
 
 ## Deploy 
@@ -18,7 +18,7 @@ A simple YouTube downloader bot with permenent thumbnail support.
 ## For Biginers(Easy Way)
 
 <b> Step.1:- </b>
-       Hit Deploy Button Provided Above.
+      Fork the repo.Hit Deploy Button Provided Above On your Fork.
  
 <b> Step.2:- </b>
 Get <b> APP ID </b> And <b> API Hash </b> by login [Here](https://my.telegram.org) 
