@@ -24,7 +24,7 @@ A simple YouTube downloader bot with permenent thumbnail support.
 Get <b> APP ID </b> And <b> API Hash </b> by login [Here](https://my.telegram.org) 
 
 <b> Step.3:- </b>
-Send <b> /id </b> on [MissRiseBot](https://t.me/MissRose_bot) and enter ID on AUTH_USERS
+Send <b> /id </b> on [MissRoseBot](https://t.me/MissRose_bot) and enter ID on AUTH_USERS
 
 <b> Step.4:- </b>
 Get <b> new bot Token </b> from [BotFather](https://t.me/BotFather)
