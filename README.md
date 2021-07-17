@@ -18,7 +18,7 @@ A simple YouTube downloader bot with permenent thumbnail support.
 ## For Biginers(Easy Way)
 
 <b> Step.1:- </b>
-       Fork the repo.Hit Deploy Button Provided Above on your Forked repo.
+       Hit Deploy Button Provided Above.
  
 <b> Step.2:- </b>
 Get <b> APP ID </b> And <b> API Hash </b> by login [Here](https://my.telegram.org) 
