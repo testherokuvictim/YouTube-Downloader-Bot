@@ -1,6 +1,6 @@
 # YouTube-Downloader
 
-A simple YouTube downloader bot with permenent thumbnail support
+A simple YouTube downloader bot with permenent thumbnail support.
 
 <b> Modded Version </b>
 
@@ -13,6 +13,28 @@ A simple YouTube downloader bot with permenent thumbnail support
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
+
+
+## For Biginers(Easy Way)
+
+<b> Step.1:- </b>
+        Hit Deploy Button Provided Above.
+ 
+<b> Step.2:- </b>
+Get <b> APP ID </b> And <b> API Hash </b> by login [Here](https://my.telegram.org) 
+
+<b> Step.3:- </b>
+Send <b> /id </b> on [MissRiseBot](https://t.me/MissRose_bot) and enter ID on AUTH_USERS
+
+<b> Step.4:- </b>
+Get <b> new bot Token </b> from [BotFather](https://t.me/BotFather)
+
+<b> Step.5:- </b>
+Just Hit on deploy app.Wait for Few seconds.Your Bot ready 😎. 
+
+
+
+
 
 ## Variables
 
